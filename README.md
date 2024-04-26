@@ -13,11 +13,12 @@ Rombel  : XII-RPL
 3.Halaman pertama setelah login
 jika ktik uplod akan menampilkan (gambar di bawah)
 ![halaman](https://github.com/fahiraputri/GALERY-UKK/assets/158666729/3032cb2d-fdb0-409f-9711-32dd378b5a58)
+ini hasil ketika klik uplod, masukan kategori, keterangan dan juga gambar lalu klik kirim
 ![upload](https://github.com/fahiraputri/GALERY-UKK/assets/158666729/6d272115-e328-43f3-8789-b11fd0e5baca)
 
-4.Jika
-
+4.Ini hasil setelah klik kirim dari halaman sebelumnya
 ![halaman](https://github.com/fahiraputri/GALERY-UKK/assets/158666729/e3869917-702e-400b-87f4-506de6a9bbb1)
+5. Ini tampilan ketika kita klik pada gambar sebelumnya 
 ![klik](https://github.com/fahiraputri/GALERY-UKK/assets/158666729/3756ea98-ff25-4013-82e4-55f7872fa010)
 
 
